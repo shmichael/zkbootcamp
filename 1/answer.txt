@@ -1,0 +1,12 @@
+1.
+    a. 1
+    b. 1
+    c. Ill-defined because there is an additive and a multiplicative inverse. Additive inverse is 4 and multiplicative is 5.
+2. Yes
+    Associative: (a+b) mod p = (b+a) mod p, because a+b = b+a (integer addition)
+    Identity element: 0
+    Inverse element: For any a, 7-a is the inverse. a + 7 - a = 7 ≡ 0 (mod p).
+3. 2 (-13 + 15)
+4.
+    Root: 2 (just tried a few values)
+    Degree: 3

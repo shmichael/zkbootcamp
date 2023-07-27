@@ -1,0 +1,9 @@
+1.
+    1. Yes https://en.wikipedia.org/wiki/Quadratic_residue
+    2. The answer fluctuates between 0 and 4 depending on whether 4 is a divisor of the root.
+       2^2 = 4. 4^2 = 16 ≡ 0 (mod 8). 6^2 = 36 ≡ 4 (mod 8). 8^2 = 64 ≡ 0 (mod 8). 10^2 = 100 ≡ 4 (mod 8).
+3.
+    1. The computation length is proportional to the size of the input n
+    2. The computation length is a constant
+    3. The computation length is proportional to the log of the size of the input n
+    For a proof size, smaller is better, so 2.

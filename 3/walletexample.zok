@@ -1,0 +1,5 @@
+// 3 wallet addresses in blockchain.
+def main(u32[3] blockchain, u32 wallet) {
+    assert(blockchain[wallet] > 1);
+    return;
+}
